@@ -83,8 +83,8 @@ Si consultamos la historia de encuentro con los artefactos debería ser:
 Los artefactos son elementos que aportan poder en una batalla al personaje que lo posee
 Pero ojo que cada vez que se combate en una batalla sufren efectos. El poder de pelea
 de rolando, va a depender de un valor base (inicialmente configurable) 
-y de sus artefactos. Tener en cuenta al momento de programar los artefactos que éstos podrían ser
-usados por otros personajes que aún se han introducido.
+y de sus artefactos. Tener en cuenta al momento de programar los artefactos 
+que éstos podrían ser usados por otros personajes que aún no se han introducido.
   
 - Espada del destino: Las primera vez que se utiliza aporta la misma cantidad que el poder base del personaje, 
 luego sólo el 50%. 
@@ -96,8 +96,8 @@ _Nota_ La regla del libro de hechizos se define más adelante.
 
 El poder de pelea de rolando es la suma su poder base (que inicialmente es 5) más la sumatoria 
 de los poderes de pelea que le aportan los artefactos que tiene encima. 
-Cuando ocurre una batalla, se utilizan todos los artefactos que rolando lleva encima 
-y además se incremente en 1 el número base del poder de pelea de rolando. 
+Cuando ocurre una batalla, se utilizan todos los artefactos que Rolando lleva encima 
+y además se incremente en 1 el número base del poder de pelea de Rolando. 
 
 *Requerimientos* 
 - Hacer que Rolando luche una batalla
